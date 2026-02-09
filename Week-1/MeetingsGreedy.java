@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Meetings {
+public class MeetingsGreedy {
 
     static class Meeting {
         int start, end;

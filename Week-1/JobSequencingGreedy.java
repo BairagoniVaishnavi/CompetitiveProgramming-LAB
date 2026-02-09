@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class JobSequencing {
+public class JobSequencingGreedy {
 
     static class Job {
         int deadline;

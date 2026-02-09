@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class  MaximumProfitStreak{
+public class  MaximumProfitStreakDivideandConquer{
 
     // Function to find maximum crossing subarray sum
     private static long maxCrossingSum(long[] arr, int left, int mid, int right) {
